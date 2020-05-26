@@ -23,6 +23,7 @@
             android:layout_height="wrap_content"
             android:text="취미"/>
         <Spinner
+            android:spinnerMode="dialog"
             android:entries="@array/hobbies"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
